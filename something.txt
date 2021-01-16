@@ -5,6 +5,8 @@ Red
 Yellow
 purple
 blue
+Earth
+Recycle!
 aqua
 orange
 
